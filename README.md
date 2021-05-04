@@ -1,4 +1,4 @@
-# Own-Programming-Language
+# your own programming language
 Made by David Callanan: https://github.com/davidcallanan
 
 
